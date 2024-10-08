@@ -15,7 +15,6 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.fragment)
     implementation(libs.bundles.lifecycle)
-    implementation(projects.core.designsystem)
     implementation(projects.feature.newslist)
     implementation(projects.feature.newsdetail)
 }
