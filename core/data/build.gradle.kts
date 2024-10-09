@@ -13,7 +13,6 @@ dependencies {
     implementation(projects.core.model)
     implementation(projects.core.database)
     implementation(projects.core.network)
-    implementation(libs.androidx.paging)
     implementation(libs.retrofit)
 
     implementation(libs.androidx.room)

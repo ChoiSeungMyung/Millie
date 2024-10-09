@@ -10,5 +10,4 @@ android.buildFeatures.resValues = false
 dependencies {
     implementation(projects.core.model)
     implementation(projects.core.data)
-    implementation(libs.androidx.paging)
 }

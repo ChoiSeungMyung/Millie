@@ -13,6 +13,4 @@ dependencies {
     implementation(libs.androidx.room)
     implementation(libs.androidx.room.ktx)
     ksp(libs.androidx.room.compiler)
-
-    compileOnly(libs.protobuf.google)
 }
